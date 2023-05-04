@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AavishRastogi
+-    My, Virtual name is Bakamono_kun
 - 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning javascript
 - 💞️ I’m currently not collaborating
 ⁸
 <!---
