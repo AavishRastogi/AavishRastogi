@@ -2,7 +2,7 @@
 -    My, Virtual name is Bakamono_kun
 - 👀 I’m interested in becoming a web developer
 - 🌱 I’m currently learning javascript
-- 💞️ I’m currently not collaborating
+- 💞️ I’m currently COLLABORATING
 ⁸
 <!---
 AavishRastogi/AavishRastogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
